@@ -33,7 +33,7 @@ var CONFIG = {
     ARTBOARD_COUNT      : 1,
     ARTBOARD_WIDTH      : 24,
     ARTBOARD_HEIGHT     : 24,
-    ARTBOARD_SPACING    : 24,
+    ARTBOARD_SPACING    : 10,
     ARTBOARD_ROWSxCOLS  : 10,
     LOG_FILE_PATH       : HOME_FOLDER + "/ai-script-log.txt",
     CONFIG_FILE_PATH    : HOME_FOLDER + "/ai-script-conf.json",
